@@ -1,4 +1,5 @@
 # codetemplate
-# jiuzhang, leetcode
+## jiuzhang, leetcode
 
-- [ ] 07/23: 
+### July 2020
+- [ ] 23:  
